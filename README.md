@@ -6,6 +6,8 @@ repo for storing classwork
 ## random dogs
 
 ## table of contents
+---
+
 ## big dogs
 ## small dogs
 
